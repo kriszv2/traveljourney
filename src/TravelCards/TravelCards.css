@@ -1,0 +1,41 @@
+
+.travel--card{
+    display:flex;
+    align-items: flex-start;
+    width:900px;
+    margin: 50px;
+}
+.travel--images{
+    
+    width:400px;
+}
+.travel--card-icon{
+    width:30px;
+    padding: 3px 5px 0 10px;
+    
+}
+.travel-loc{
+    display: flex;
+    align-items: center;
+}
+.travel--card-location{
+    font-weight: 600;
+    color: rgb(58, 58, 58);
+    letter-spacing: 0.1em;
+}
+.travel-loc > a{
+    padding-left:10px;
+    color:grey;
+}
+h1{
+    margin: 0;
+    padding: 10px;
+
+}
+h3{
+    padding: 3px 5px 0 10px;
+    font-size: 16px;
+}
+p{
+    padding: 3px 5px 0 10px;
+}
